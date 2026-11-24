@@ -15,3 +15,5 @@ Tall Street is a daily tower game on Robinhood Chain. Crews stack floors on towe
 - **Rules:** public in [rules](https://github.com/Tall-street/rules). The exact engine and tests the game contracts will follow, with a plain-language spec.
 - **Website and demo round:** built. A full round on the real clock and real stock prices, with simulated rival crews and demo ETH.
 - **Game contracts:** in development. Their source will be published on this profile, and their addresses verified, before any floor is placed with real ETH.
+
+Updates on X: [@TallStreetHQ](https://x.com/TallStreetHQ)
