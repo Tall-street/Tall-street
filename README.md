@@ -12,8 +12,9 @@ Tall Street is a daily tower game on Robinhood Chain. Crews stack floors on towe
 
 ### Status
 
-- **Rules:** public in [rules](https://github.com/Tall-street/rules). The exact engine and tests the game contracts will follow, with a plain-language spec.
-- **Website and demo round:** built. A full round on the real clock and real stock prices, with simulated rival crews and demo ETH.
-- **Game contracts:** in development. Their source will be published on this profile, and their addresses verified, before any floor is placed with real ETH.
+- **The game is open** at [tallst.com](https://tallst.com) since 26 November 2026. Rounds are played with real ETH.
+- **Game contracts:** source in [contracts](https://github.com/Tall-street/contracts), every contract verified on Sourcify with an exact match. Game `0xD96cb122028adBbe5e85C255598E66D2B9ab5999`, staking `0x21f36721dc6Ee094DB3Fb3A9b96147898D034548`. Not audited.
+- **$TALL:** `0x4c5FF4029f581010bEF5709EC0b909584b129BFb`. Hold it to found a crew and place up to 100 floors at once; stake it for up to 20% off every floor. The address is also on [tallst.com/tall](https://tallst.com/tall).
+- **Rules:** public in [rules](https://github.com/Tall-street/rules). The engine and tests the game contracts follow, with a plain-language spec.
 
 Updates on X: [@TallStreetHQ](https://x.com/TallStreetHQ)
